@@ -12,7 +12,7 @@ half_width, half_height = full_width // 2, full_height // 2
 # Display starting at half screen size
 width, height = half_width, half_height  # Set initial dimensions
 win = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Card Game with Full/Half Screen Toggle")
+pygame.display.set_caption("Ideclare")
 
 # Colors
 WHITE = (255, 255, 255)
